@@ -14,7 +14,7 @@ cd ..
 rm -rf Python-3.11.4.tgz
 rm -rf Python-3.11.4
 
-wget https://raw.githubusercontent.com/CodenGames/VPCoden_bot/main/requirements.txt
+wget https://raw.githubusercontent.com/middtho-dev/x-ui-install/refs/heads/main/requirements.txt
 pip3.11 install -r requirements.txt
 pip3.11 install --upgrade pip
 rm -rf requirements.txt
